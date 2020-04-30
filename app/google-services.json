@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1019139772116",
+    "firebase_url": "https://bookservice-436f4.firebaseio.com",
+    "project_id": "bookservice-436f4",
+    "storage_bucket": "bookservice-436f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019139772116:android:98b2557fc5190ad8477541",
+        "android_client_info": {
+          "package_name": "com.example.seproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019139772116-87gtjnbfmrbsmnv7l7nqvu29ln18jaav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0XmwVv2KTb3kXgN-5rGsFHHzzRXCSYhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019139772116-87gtjnbfmrbsmnv7l7nqvu29ln18jaav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
